@@ -412,7 +412,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
     </td>
     <td align="center" width="50%">
       <h3>Vishal BG</h3>
-      <p>Team Member</p>
+      <p>Lead Developer</p>
       <a href="https://www.linkedin.com/in/vishalbg/">🔗 LinkedIn</a>
     </td>
   </tr>
