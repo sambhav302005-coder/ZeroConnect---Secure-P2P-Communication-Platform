@@ -1,0 +1,29 @@
+# ZeroConnect - Secure P2P Communication Platform
+# Python Dependencies
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Video Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Audio Processing
+pyaudio>=0.2.13
+
+# Image Processing
+Pillow>=10.0.0
+
+# Screen Capture
+pyautogui>=0.9.54
+
+# Encryption & Security
+cryptography>=41.0.0
+
+# Optional: For better performance
+# opencv-contrib-python>=4.8.0  # Additional OpenCV features
+
+# Development Dependencies (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
