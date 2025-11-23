@@ -400,6 +400,26 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
+## 👥 Team
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Sambhav Jain</h3>
+      <p>Lead Developer</p>
+      <a href="https://www.linkedin.com/in/sambhavjain~/">🔗 LinkedIn</a> • 
+      <a href="https://github.com/sambhav302005-coder">💻 GitHub</a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Vishal BG</h3>
+      <p>Team Member</p>
+      <a href="https://www.linkedin.com/in/vishalbg/">🔗 LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🙏 Acknowledgments
 
 Special thanks to the following projects and communities:
@@ -414,9 +434,9 @@ Special thanks to the following projects and communities:
 
 ## 📧 Contact & Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/zeroconnect/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/zeroconnect/discussions)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/sambhav302005-coder/ZeroConnect---Secure-P2P-Communication-Platform/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/sambhav302005-coder/ZeroConnect---Secure-P2P-Communication-Platform/discussions)
+- **LinkedIn:** [Sambhav Jain](https://www.linkedin.com/in/sambhavjain~/) • [Vishal BG](https://www.linkedin.com/in/vishalbg/)
 
 ### Getting Help
 
